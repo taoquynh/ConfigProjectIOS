@@ -43,6 +43,9 @@
 		A93438FB29B5C338006FAF99 /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93438FA29B5C338006FAF99 /* LanguageViewController.swift */; };
 		A93438FD29B5C436006FAF99 /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93438FA29B5C338006FAF99 /* LanguageViewController.swift */; };
 		A93438FE29B5C436006FAF99 /* LanguageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93438FA29B5C338006FAF99 /* LanguageViewController.swift */; };
+		A934390129B5DC74006FAF99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934390029B5DC74006FAF99 /* SwiftUIView.swift */; };
+		A934390229B5DC74006FAF99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934390029B5DC74006FAF99 /* SwiftUIView.swift */; };
+		A934390329B5DC74006FAF99 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A934390029B5DC74006FAF99 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +65,7 @@
 		A93438F329B5BCE2006FAF99 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A93438F429B5BD39006FAF99 /* Extension+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+String.swift"; sourceTree = "<group>"; };
 		A93438FA29B5C338006FAF99 /* LanguageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageViewController.swift; sourceTree = "<group>"; };
+		A934390029B5DC74006FAF99 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		A9C4140B29B2229B004EDB22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9C4140D29B2229B004EDB22 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A9C4140F29B2229B004EDB22 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -123,6 +127,14 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
+		A93438FF29B5DC5C006FAF99 /* ViewSwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				A934390029B5DC74006FAF99 /* SwiftUIView.swift */,
+			);
+			path = ViewSwiftUI;
+			sourceTree = "<group>";
+		};
 		A9C413FF29B2229B004EDB22 = {
 			isa = PBXGroup;
 			children = (
@@ -151,6 +163,7 @@
 				A93438D929B58B4B006FAF99 /* Managements */,
 				A93438FC29B5C42E006FAF99 /* Controllers */,
 				A9C4140B29B2229B004EDB22 /* AppDelegate.swift */,
+				A93438FF29B5DC5C006FAF99 /* ViewSwiftUI */,
 				A9C4140D29B2229B004EDB22 /* SceneDelegate.swift */,
 				A9C4141129B2229B004EDB22 /* Main.storyboard */,
 				A9C4141429B2229C004EDB22 /* Assets.xcassets */,
@@ -291,6 +304,7 @@
 			files = (
 				A93438A229B587CB006FAF99 /* ViewController.swift in Sources */,
 				A93438E229B59333006FAF99 /* BaseUrl.swift in Sources */,
+				A934390129B5DC74006FAF99 /* SwiftUIView.swift in Sources */,
 				A93438F529B5BD39006FAF99 /* Extension+String.swift in Sources */,
 				A93438A329B587CB006FAF99 /* AppDelegate.swift in Sources */,
 				A93438DB29B58B61006FAF99 /* Configuration.swift in Sources */,
@@ -305,6 +319,7 @@
 			files = (
 				A93438F629B5BD4D006FAF99 /* Extension+String.swift in Sources */,
 				A93438B529B587CE006FAF99 /* ViewController.swift in Sources */,
+				A934390229B5DC74006FAF99 /* SwiftUIView.swift in Sources */,
 				A93438B629B587CE006FAF99 /* AppDelegate.swift in Sources */,
 				A93438DC29B58D7B006FAF99 /* Configuration.swift in Sources */,
 				A93438F829B5BE30006FAF99 /* BaseUrl.swift in Sources */,
@@ -319,6 +334,7 @@
 			files = (
 				A93438F729B5BD4E006FAF99 /* Extension+String.swift in Sources */,
 				A93438C829B587F4006FAF99 /* ViewController.swift in Sources */,
+				A934390329B5DC74006FAF99 /* SwiftUIView.swift in Sources */,
 				A93438C929B587F4006FAF99 /* AppDelegate.swift in Sources */,
 				A93438DD29B58D7B006FAF99 /* Configuration.swift in Sources */,
 				A93438F929B5BE30006FAF99 /* BaseUrl.swift in Sources */,

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CreateConfiguration
+
+  Created by Tao Quynh on 3/6/23.
+  
+*/
+
+"text.title" = "Chọn ngôn ngữ";
+"text.english" = "Tiếng Anh";
+"text.vietnamese" = "Tiếng Việt";
+"text.topic" = "Những quy luật tự nhiên";
+"text.paragraph" = "Nước mà chúng ta uống, đi vào cơ thể và bị đẩy ra ngoài trong vòng 4 giờ, nếu không sẽ sinh bệnh. Không khí mà chúng ta hít thở, phải được tống ra trong vòng 1 phút, nếu không chúng ta sẽ chết. Những cảm xúc tiêu cực như thù hận, giận giữ, ghen tuông, bất an,...chúng ta giữ mãi trong người cả ngày, suốt tháng, bao năm. Nếu không rũ bỏ những thứ cảm xúc tiêu cực này luôn luôn, sẽ sinh bệnh trong thân tâm. Thiền và cầu nguyện là cách an toàn nhất làm tan biến những cảm xúc này. Hãy luôn hướng tới một cuộc sống lành mạnh...";
